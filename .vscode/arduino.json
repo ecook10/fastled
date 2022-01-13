@@ -1,7 +1,0 @@
-{
-    "sketch": "paddy/paddy.ino",
-    "board": "arduino:avr:mega",
-    "configuration": "cpu=atmega2560",
-    "port": "/dev/ttyUSB0",
-    "output": "/home/ecook10/.build/arduino"
-}
